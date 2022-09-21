@@ -1,0 +1,7 @@
+order dave 5 shares purchased at price 110.00
+order carol 5 shares sold at price 110.00
+order dave 15 shares unexecuted
+order alice 10 shares unexecuted
+order fred 1 shares unexecuted
+order eve 100 shares unexecuted
+
